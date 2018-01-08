@@ -1,4 +1,4 @@
-package section3.dependencyInjection.Vehicles;
+package section3.dependencyInjection.vehicles;
 
 import section3.dependencyInjection.parts.Engine;
 
