@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="9">
-      <module name="MasterObjectOrientedDesignInJava" target="1.5" />
+      <module name="MasterObjectOrientedDesignInJava" target="9" />
     </bytecodeTargetLevel>
   </component>
 </project>
